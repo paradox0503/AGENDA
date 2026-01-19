@@ -2,7 +2,7 @@
 </h1>
 <h2 align="center"> A General Deep Approximation Framework for Data Series Similarity Search</h2>
 
-AGENDA is a deep learning–based framework for data-series approximation in similarity search. It pre-trains a lightweight Transformer on heterogeneous data-series corpora and then efficiently adapts it—via fast fine-tuning or zero-shot inference—to new datasets, enabling efficient and accurate similarity search.
+AGENDA is a deep learning based framework for time series similarity search. It pretrains a lightweight Transformer on large scale heterogeneous time series corpora to learn transferable representations, and subsequently adapts to new datasets via efficient fine tuning or zero shot inference. This design enables accurate and computationally efficient similarity search across diverse time series domains, while significantly reducing training and deployment costs.
 
 ## Framework
 
