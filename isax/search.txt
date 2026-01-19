@@ -1,0 +1,23 @@
+100
+5
+astro
+/data/AGENDA/data/
+/data/SEAnet/
+256
+500
+1000
+10000
+10000
+100
+说明：
+query_num 1
+k 2
+data_name 3
+origin_input_directory 4
+embed_input_directory 5
+ts_length 6
+ts_num 7 创建索引使用的规模
+ref_objs_size 8
+approximate_leaf_size 9
+ts_buffer_size_for_read 10
+ts_buffer_size_per_ref_obj 11
