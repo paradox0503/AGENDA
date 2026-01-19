@@ -8,7 +8,7 @@ st.markdown(
     """,
     unsafe_allow_html=True
 )
-st.image("architecture_v2-1.png", caption="Framework Architecture", use_container_width=True)
+st.image("architecture.png", caption="Framework Architecture", use_container_width=True)
 st.markdown("---")
 
 # st.write("Please use the navigation bar on the left to select a feature page.")

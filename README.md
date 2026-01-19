@@ -8,7 +8,7 @@ AGENDA is a deep learning based framework for time series similarity search. It 
 
 We present AGENDA, a novel deep-learning approximation engine that acts as the core neural component of our similarity-search system.
 
-![Framework](architecture_v2-1.png)
+![Framework](architecture.png)
 
 ## Installation
 To install AGENDA from source, you will need the following tools:
