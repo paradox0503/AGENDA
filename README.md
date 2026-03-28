@@ -83,7 +83,7 @@ The following methods were used as baselines.
 | [DFT](https://link.springer.com/chapter/10.1007/3-540-57301-1_5)                         |                                                     The discrete Fourier transform maps a time series to the frequency domain, where a small set of Fourier coefficients can be used as a compact embedding for similarity search.                                                     |
 | [SEANet](https://ieeexplore.ieee.org/document/10107902)                          |                         is a method that learns Deep Embedding Approximations (DEA) so neural embeddings can replace classical approximations for accurate approximate similarity search over data series.                          |
 | [UniTime](https://arxiv.org/abs/2310.09751)                          |                         is a language-empowered unified model that uses domain instructions with a Language-TS Transformer to generalize time-series representations across domains.                          |
-| [deepsketch](https://doi.org/10.14778/3685800.368587)                          |                         adapts a geometric loss that learns representations close to the embedding of a reference DSA method.                          |
+| [DeepSketch](https://doi.org/10.14778/3685800.3685877)                          |                         adapts a geometric loss that learns representations close to the embedding of a reference DSA method.                          |
 
 
 ### Index
