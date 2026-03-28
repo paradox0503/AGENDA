@@ -83,7 +83,7 @@ The following methods were used as baselines.
 | [DFT](https://link.springer.com/chapter/10.1007/3-540-57301-1_5)                         |                                                     The discrete Fourier transform maps a time series to the frequency domain, where a small set of Fourier coefficients can be used as a compact embedding for similarity search.                                                     |
 | [SEANet](https://ieeexplore.ieee.org/document/10107902)                          |                         is a method that learns Deep Embedding Approximations (DEA) so neural embeddings can replace classical approximations for accurate approximate similarity search over data series.                          |
 | [UniTime](https://arxiv.org/abs/2310.09751)                          |                         is a language-empowered unified model that uses domain instructions with a Language-TS Transformer to generalize time-series representations across domains.                          |
-| [S²IP-LLM](https://arxiv.org/abs/2403.05798)                          |                         aligns time-series embeddings with an LLM’s semantic space by deriving and retrieving “semantic anchors” from word embeddings as prompts.                          |
+| [deepsketch](https://doi.org/10.14778/3685800.368587)                          |                         adapts a geometric loss that learns representations close to the embedding of a reference DSA method.                          |
 
 
 ### Index
@@ -96,9 +96,4 @@ The following methods were used as baselines.
 | [Dumpy](https://dl.acm.org/doi/10.1145/3588965)                         |                                                                             is a data-adaptive index structure designed for scalable similarity search over large data series collections. Unlike traditional index structures that rely on fixed fan-out or uniform partitioning, Dumpy dynamically adapts its node arity and partitioning strategy according to the data distribution, thereby avoiding index degeneration under skewed or high-dimensional data.                                                                             |
 
 
-
-
-
-## Click here for GUI DEMO
-[Please view our demonstration video. ]( https://www.youtube.com/watch?v=I-y3wrDl1VQ)
 
